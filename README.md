@@ -1,4 +1,4 @@
-# [sub or gay lmfao](https://www.youtube.com/channel/UCCxCUylxSBaf8Qf_FgAFAtQ?sub_confirmation=1)
+# [Subscribe LMFAO](https://www.youtube.com/channel/UCCxCUylxSBaf8Qf_FgAFAtQ?sub_confirmation=1)
 ```cpp
 Engine::World::Levels = 0x138; // kek 
 Engine::World::PersistentLevel = 0x30;
