@@ -1,5 +1,4 @@
 # fortnite-offsets-14.20
-kek
 ```cpp
 Engine::World::Levels = 0x138; // kek 
 Engine::World::PersistentLevel = 0x30;
