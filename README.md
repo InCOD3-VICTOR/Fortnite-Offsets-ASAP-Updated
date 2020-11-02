@@ -80,4 +80,5 @@ MeatballVehicleConfigs 0x0
 SpectatorPawn 0x548
 bIsReloadingWeapon 0x2B1
 PlayerState 0x22A
+
 ```
