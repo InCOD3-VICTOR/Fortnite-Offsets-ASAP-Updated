@@ -1,4 +1,4 @@
-# [Subscribe LMFAO](https://www.youtube.com/channel/UCCxCUylxSBaf8Qf_FgAFAtQ?sub_confirmation=1)
+# [Subscribe](https://www.youtube.com/channel/UCCxCUylxSBaf8Qf_FgAFAtQ?sub_confirmation=1)
 ```cpp
 Engine::FortMeatballVehicle::FortMeatballVehicleConfigsClass: 0x1A28
 Engine::FortMeatballVehicleConfigs::BoostMinPushForce: 0x600
